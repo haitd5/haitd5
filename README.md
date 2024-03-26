@@ -28,6 +28,6 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
-  <img width="100" height="100" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
   
 </p>
